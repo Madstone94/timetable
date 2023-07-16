@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=long\ time()
+comment1.params=
+comment1.target=void\ creator50()
+comment2.params=
+comment2.target=void\ creator100()
+comment3.params=
+comment3.target=void\ creator150()
+comment4.params=
+comment4.target=void\ creator200()
+comment5.params=
+comment5.target=void\ creator250()
+comment6.params=
+comment6.target=void\ creator300()
+comment7.params=list
+comment7.target=void\ bubbleSort(int[])
+comment7.text=Bubble\ sort\ method
+numComments=8
